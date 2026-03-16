@@ -40,14 +40,13 @@ To analyze:
 - DAX – Measures & Calculated Columns
 - Power Query – Data Cleaning & Transformation
 
-##Excel / CSV Dataset – Data Source
+Excel / CSV Dataset – Data Source
 - Key DAX Measures Used
 - Total Sales
 - Total Orders
 - Average Grand Total
 - Year & Quarter Calculations
-- Total sales by year
-- 
+- Total sales by year 
  
 ## Conclusion
 The Baskin Robbins Sales Performance Dashboard translates raw transactional data into meaningful business intelligence. The project reflects strong capabilities in data transformation, DAX modeling, KPI design, and executive-level dashboard development. 

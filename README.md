@@ -5,10 +5,10 @@ This project presents a Sales Performance Dashboard built using Power BI to anal
 ## Business Objective
 To analyze:
 
-_Total Sales Performance 
-_Order Volume & Average Order Value
-_Sales by Category
-_Payment Mode Distribution
+_ Total Sales Performance 
+_ Order Volume & Average Order Value
+_ Sales by Category
+_ Payment Mode Distribution
 Yearly & Quarterly Sales Trends:
 -Sales by Time of the Day
 ## Key KPIs

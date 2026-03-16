@@ -8,37 +8,42 @@ To analyze:
 - Total Sales Performance 
 - Order Volume & Average Order Value
 - Sales by Category
-_ Payment Mode Distribution
-Yearly & Quarterly Sales Trends:
--Sales by Time of the Day
+- Payment Mode Distribution
+- Yearly & Quarterly Sales Trends
+- Sales by Time of the Day
+  
 ## Key KPIs
--Total Stores
--Total Sales
--Total Orders
--Average Order Value
+- Total Stores
+- Total Sales
+- Total Orders
+- Average Order Value
+
 ## Analytical Highlights
 🔹 Revenue Distribution by Payment Mode
 
-The dashboard analyzes UPI, Digital Wallet, Cash, Card, and Gift Coupons contributions, enabling insights into evolving customer payment preferences.
+- The dashboard analyzes UPI, Digital Wallet, Cash, Card, and Gift Coupons contributions, enabling insights into evolving customer payment preferences.
 🔹 Time-Based Sales Analysis
 
-Sales are segmented into time bins (morning, mid-day, afternoon, evening), identifying peak revenue-generating hours for optimized staffing and inventory planning.
+- Sales are segmented into time bins (morning, mid-day, afternoon, evening), identifying peak revenue-generating hours for optimized staffing and inventory planning.
 🔹 Category-Level Performance
 
-Ice Cream Cakes and Family Packs emerge as major revenue contributors, offering insights into high-margin product segments.
+- Ice Cream Cakes and Family Packs emerge as major revenue contributors, offering insights into high-margin product segments.
 🔹 Yearly & Quarterly Trend Analysis
 
-A time-series view of revenue helps identify seasonal fluctuations and growth consistency across financial periods.
+- A time-series view of revenue helps identify seasonal fluctuations and growth consistency across financial periods.
+
 ## Tools & Technologies Used
--Power BI – Data Visualization
--DAX – Measures & Calculated Columns
--Power Query – Data Cleaning & Transformation
+- Power BI – Data Visualization
+- DAX – Measures & Calculated Columns
+- Power Query – Data Cleaning & Transformation
+
 ##Excel / CSV Dataset – Data Source
--Key DAX Measures Used
--Total Sales
--Total Orders
--Average Order Value
--Year & Quarter Calculations
--Time-based Sales Analysis
+- Key DAX Measures Used
+- Total Sales
+- Total Orders
+- Average Order Value
+- Year & Quarter Calculations
+- Time-based Sales Analysis
+ 
 ## Conclusion
 The Baskin Robbins Sales Performance Dashboard translates raw transactional data into meaningful business intelligence. The project reflects strong capabilities in data transformation, DAX modeling, KPI design, and executive-level dashboard development. 

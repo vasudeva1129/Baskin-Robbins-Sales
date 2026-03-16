@@ -23,7 +23,8 @@ To analyze:
 🔹 Revenue Distribution by Payment Mode
 
 - The dashboard analyzes UPI, Digital Wallet, Cash, Card, and Gift Coupons contributions, enabling insights into evolving customer payment preferences.
-- 🔹 Total sales by year
+  
+🔹 Total sales by year
  - Identify high-performing years,Understand sales fluctuations,Make data-driven decisions for future sales strategies
 
 🔹 Category-Level Performance

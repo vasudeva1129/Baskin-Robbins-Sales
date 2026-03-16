@@ -30,6 +30,7 @@ To analyze:
 🔹 Category-Level Performance
 
 - Ice Cream Cakes and Family Packs emerge as major revenue contributors, offering insights into high-margin product segments.
+  
 🔹 Yearly & Quarterly Trend Analysis
 
 - A time-series view of revenue helps identify seasonal fluctuations and growth consistency across financial periods.

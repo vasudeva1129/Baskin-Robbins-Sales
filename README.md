@@ -6,25 +6,26 @@ This project presents a Sales Performance Dashboard built using Power BI to anal
 To analyze:
 
 - Total Sales Performance 
-- Order Volume & Average Order Value
-- Sales by Category
+- Average Grand Total
+- Sales Percent by Category
 - Payment Mode Distribution
 - Yearly & Quarterly Sales Trends
-- Sales by Time of the Day
+- Total sales by year
+- Count on Payment mode by Quarter 
   
 ## Key KPIs
 - Total Stores
 - Total Sales
 - Total Orders
-- Average Order Value
+- Average Grand Total
 
 ## Analytical Highlights
 🔹 Revenue Distribution by Payment Mode
 
 - The dashboard analyzes UPI, Digital Wallet, Cash, Card, and Gift Coupons contributions, enabling insights into evolving customer payment preferences.
-🔹 Time-Based Sales Analysis
+🔹 Total sales by year
+ - Identify high-performing years,Understand sales fluctuations,Make data-driven decisions for future sales strategies
 
-- Sales are segmented into time bins (morning, mid-day, afternoon, evening), identifying peak revenue-generating hours for optimized staffing and inventory planning.
 🔹 Category-Level Performance
 
 - Ice Cream Cakes and Family Packs emerge as major revenue contributors, offering insights into high-margin product segments.
@@ -41,9 +42,9 @@ To analyze:
 - Key DAX Measures Used
 - Total Sales
 - Total Orders
-- Average Order Value
+- Average Grand Total
 - Year & Quarter Calculations
-- Time-based Sales Analysis
+- Total sales by year
  
 ## Conclusion
 The Baskin Robbins Sales Performance Dashboard translates raw transactional data into meaningful business intelligence. The project reflects strong capabilities in data transformation, DAX modeling, KPI design, and executive-level dashboard development. 

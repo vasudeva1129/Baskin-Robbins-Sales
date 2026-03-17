@@ -39,9 +39,9 @@ To analyze:
 - Power BI – Data Visualization
 - DAX – Measures & Calculated Columns
 - Power Query – Data Cleaning & Transformation
-
-Excel / CSV Dataset – Data Source
-- Key DAX Measures Used
+- Excel / CSV Dataset – Data Source
+  
+Key DAX Measures Used
 - Total Sales
 - Total Orders
 - Average Grand Total
